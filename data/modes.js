@@ -1,0 +1,98 @@
+exports.modes= {
+  "solo":{
+    "desc":"**Solos**\nThe classic game mode. Complete free for all, kill everyone, be the last one alive.\nSolo, a game mode where you spawn into the world alone and you just rely on your own tactics and skill to push you to the end and be the last player alive.\n**Solos FPP (First Person Perspective)**\n\nSolo FPP is based around your normal Solo game mode (as read above), but instead of being in 3rd person this is strictly in 1st person",
+    "map" :"Erangel, Vikendi, Miramar, Sanhok.",
+    "mode":"Classic",
+    "foot": "In order to get a chicken dinner always play survival and ignore fights as much as you can.",
+  },
+  "duo":{
+    "desc":"**Duos**\nFor this game mode, you will be paired up with another individual and will compete to be the last ones alive.\n\n\**Duos FPP (First Person Perspective)**\nDuo FPP is based around your normal Duo game mode (as read above), but instead of being in 3rd person this is strictly in 1st person",
+    "map" :"Erangel, Vikendi, Miramar, Sanhok.",
+    "mode":"Classic",
+     "foot": "In order to get a chicken dinner always play survival and ignore fights as much as you can.",
+  },
+    "squad":{
+    "desc":"**Squads**\nSquad is a gameplay type where players are organized into teams which are then pitted against each other. This is distinct from the classic Free For All (FFA) gameplay mode, where players are free to kill whomever they wish.\nSQUAD, a game mode where you can team up in groups of 2, 3 or 4 players, or if you prefer, you can still play solo and take on everyone alone in the match.\n\nNote: No matter the size of your party when you enter a match, you'll be matched with teams of 4.\n**Squads FPP (First Person Perspective)**\nSquad FPP is based around your normal Squad game mode (as read above), but instead of being in 3rd person this is strictly in 1st person.",
+    "map" :"Erangel, Vikendi, Miramar, Sanhok.",
+    "mode":"Classic",
+       "foot": "In order to get a chicken dinner always play survival and ignore fights as much as you can.",
+  },
+  "training":{
+    "desc":"Training mode lets 5 - 20 players practice all aspects of PUBG, from driving the game’s various vehicles around the island’s race tracks, to practicing parachute landings on scattered targets, to mastering the perfect peek shot. There are even areas to practice vaulting, close-quarters combat and of course, vehicle jumps. Range will give new players a better understanding of the basics of navigation, looting, shooting, driving and parachuting. Casual players should have fun experimenting in our expansive playground environment; stunt driving, boat racing and exploring the island. More serious players should enjoy learning about deeper gunplay; how the attachments, scopes, recoil, zeroing and bullet-drop influence their shots.",
+    "map" :"Training Ground.",
+    "mode":"Training",
+     "foot": "Arcade mode(War) is a better way to improve your shooting skills.",
+  },
+  "hardcore":{
+    "desc":"**Hardcore Mode**\n Just like the PC/Console version. Disabled features like Sound Visualization and Auto Pick-Up to make your gunfights even more hardcore.",
+    "map" :"Erangel",
+    "mode":"Arcade",
+     "foot": "Best way to find out, how pro you're.",
+  },
+  "quickmatch":{
+    "desc":"**Quick Match**\n 8-Minute Matches with a random variation:\n all weapons, shotguns, melee, pistols, item heaven.",
+    "map" :"Erangel, Sanhok, Miramar\n *Maps not downloaded will not appear in game*",
+    "mode":"Arcade",
+     "foot": "Good way to complete rp missions without any effect on your tier.",
+  },
+  "snipertraining":{
+    "desc":"**Sniper Training**\n 15 Minute Sniper Training: Try out Sniper Rifles(All) and Sniper Rifles (Bolt Action).\n\n***LImited Time Only***\n Opens every Monday, Wednesday, Friday, Saturday and Sunday (UTC)",
+    "map" :"Erangel, Sanhok, Miramar\n *Maps not downloaded will not appear in game*",
+    "mode":"Arcade",
+     "foot": "Best way to train your sniping skills.",
+  },
+  "war":{
+    "desc":"**War Mode**\nParachute with weapons and endless respawns!\nEarn 3 points when killing an enemy and 1 point when reviving a teammate. Reach the specified points first, to win.\n\n***LImited Time Only***\n Opens every Tuesday, Thursday, Saturday and Sunday (UTC)",
+    "map" :"Erangel, Sanhok, Miramar\n *Maps not downloaded will not appear in game*",
+    "mode":"Arcade",
+     "foot": "Best way to train your shooting skills.",
+  },
+"tdm":{
+    "desc":"**Team Deathmatch**\n Team Deathmatch has endless respawns. Earn 1 points point for each enemy killed. The first team that kills the 40 enemies within the limited time wins.\nYou need to set up a loadout with weapons before starting a match.",
+    "map" :"Warehouse",
+    "mode":"Arena",
+     "foot": "Best way to train your shooting skills and complete rp mission *kill enemy with specified weapons in any mode.* as you can set up any weapon in loadout.",
+  },
+  "domination":{
+    "desc":"**Domination**\n Domination split between 2 teams as a 4v4 Red vs Blue match.\n The map has 3 bases, the first team to capture 2 bases wins.\n Once a base is activated, rush to occupy them until capture.\nSuper Weapon Crates will be available during the match",
+    "map" :"Town",
+    "mode":"Arena",
+     "foot": "Best way to improving rush skills.",
+  },
+  "assault":{
+    "desc":"**Assault**\n Assault mode has endless respawns. Earn 1 points point for each enemy killed. The first team that kills the 40 enemies within the limited time wins.\nYou need to set up a loadout with weapons before starting a match.",
+    "map" :"The Ruins",
+    "mode":"Arena",
+     "foot": "Best way to improving your skills.",
+  },
+  "ragegeartdm":{
+    "desc":"**RageGear TDM**\n This mode has infinite respawn. Earn 1 point for every vehicle destroyed. The first faction that destroys more number of vehicles wins.",
+    "map" :"Ring of Salad",
+    "mode":"Payload",
+     "foot": "Best way to improving your driving skills.",
+  },
+  "payload":{
+    "desc":"**Payload**\nMajor update on Classic Mode is here,30 combat, Super Air Drop, and revival of dead teammates  through a Communication Tower.\n\n**Exclusive weapons:**\nM3EI- A Missile Launcher, RPG-7- Sawed-Off Grenade Launcher, M79 Grenade Launcher, and MGl Grenade Launceher.\n**Exclusive items:**\nVehicle Repair Pack and Air Strike Beacon.\n**Exclusive vehicles:**\nHelicopter and BRDM-2 Armored Vehicle",
+    "map" :"Erangel",
+    "mode":"Payload",
+     "foot": "Fufil your dream of flying a helicoper in erangel and use a rocket launcher to destroy enemies.",
+  },
+   "arctic":{
+    "desc":"**Arctic Mode**\nWintery weather descends upon Classic mode every now and then. In these chilly conditions, the only way to prevent your temperature from dropping is to stay indoors. Light a fire indoors with a lighter in your backpack and roast some chickens to recover your warmth as your health will continue to drop when your body temperature is too low.",
+    "map" :"Vikendi",
+    "mode":"Payload",
+     "foot": "The real winter mode. ",
+  },
+  "customroom":{
+    "desc":"**Custom Room**\nCreate a custom room to play with your friends with any modes available or spectate as a commentator for your viewers. Most youtubers use custom room to host touranments and most players use it for fun.\n In order to create a room you need a room card which you can buy with any in game shop.",
+    "map" :"Any of your choice",
+    "mode":"Room",
+     "foot": "Have fun with real players without any bots.",
+  },
+   "bia":{
+    "desc":"**Brother in arms**\nWhen veterans play with a rookie, the rookie gets to improve their skills while the  veterans gets to rewarded.",
+    "map" :"Any Classic mode maps",
+    "mode":"Brother in arms",
+     "foot": "Improve your skills or get rewarded.",
+  },
+}

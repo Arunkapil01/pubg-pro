@@ -1,0 +1,18 @@
+{
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^11.6.4",
+    "moment": "^2.24.0",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4",
+    "memejs": "github:Arunkapil11/memejs#6699dda72c6ebff96397e6012e10cd1c252f2498"
+  },
+  "engines": {
+    "node": "^12"
+  }
+}
